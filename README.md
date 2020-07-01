@@ -1,2 +1,5 @@
 # hello-world
-hegemony
+
+hi human
+
+hubot here i like node
